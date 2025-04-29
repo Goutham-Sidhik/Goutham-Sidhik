@@ -69,24 +69,24 @@
       <td>Python, OpenCV, TensorFlow, MSSQL</td>
     </tr>
     <tr>
-      <td><a href="#">Aadhaar OCR Extractor</a></td>
-      <td>Extracts Aadhaar details from images and PDFs with high accuracy.</td>
-      <td>Flask, Pytesseract, OpenCV</td>
+      <td><a href="#">Gender Classification</a></td>
+      <td>Deep learning model classifies gender from facial images with high accuracy using a private dataset.</td>
+      <td>Python, TensorFlow, CNN</td>
     </tr>
     <tr>
-      <td><a href="#">YOLO Size Estimation App</a></td>
-      <td>Estimates real-world dimensions using YOLO + ArUco markers.</td>
-      <td>YOLOv8, OpenCV, Flask</td>
+      <td><a href="#">Facial Verification</a></td>
+      <td>Performs face matching between stored images and captured video frames to automate identity verification.</td>
+      <td>Python, AWS Rekognition, OpenCV</td>
     </tr>
     <tr>
-      <td><a href="#">Policy Extraction & Comparison</a></td>
-      <td>Extracts, summarizes, and scores policies using Bedrock LLMs.</td>
-      <td>Bedrock, FAISS, Python</td>
+      <td><a href="#">Bib Number Detection</a></td>
+      <td>Detects and recognizes bib numbers from marathon images for automated image organization.</td>
+      <td>Python, YOLO, TensorFlow (SSD), OpenCV</td>
     </tr>
     <tr>
-      <td><a href="#">Smart Event Recommender</a></td>
-      <td>Suggests event venues via database search + Google fallback.</td>
-      <td>Python, MongoDB, AWS</td>
+      <td><a href="#">OCR-based Text Extraction</a></td>
+      <td>Extracts and parses text from scanned docs using OCR and regex.</td>
+      <td>Python, PyTesseract, Regex</td>
     </tr>
   </tbody>
 </table>
