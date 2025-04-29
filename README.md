@@ -1,43 +1,83 @@
+<!-- GitHub Profile README.md -->
 
-# 🧠 About Me
+<h1 align="center">Hi 👋, I'm Goutham Sidhik</h1>
 
-I’m an AI/ML Engineer with years of experience in developing and deploying real-world ML applications. I specialize in:
+<h3 align="center">🚀 AI/ML Engineer | Computer Vision Specialist | GenAI Explorer</h3>
 
-- ⚙️ Custom & Pretrained **Object Detection** Models  
-- 🤖 Building tools using **Generative AI (LangChain & AWS APIs)**  
-- 🐍 Using **Python** as my primary language for scripting, automation, and backend tasks  
-- 💡 Exploring the synergy between CV, NLP, and GenAI in production-ready systems
+<br/>
 
----
-
-## 🧰 Tech Toolbox
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![LangChain](https://img.shields.io/badge/-LangChain-3C3C3C?logo=OpenAI&logoColor=white)
-
-**Libraries & Tools**  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+<div align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px" alt="Welcome Gif" />
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 About Me
 
-| 📌 Project | 💬 Description | 🛠️ Stack |
-|-----------|----------------|----------|
-| [`Object Detection Pipeline`](https://github.com/your_repo) | Built custom and pretrained models for real-time object detection | PyTorch, OpenCV, Python |
-| [`GenAI LangChain Tools`](https://github.com/your_repo) | Created tools using LangChain + OpenAI APIs for LLM-based workflows | LangChain, Python |
-| [`NLP Chatbot`](https://github.com/your_repo) | Context-aware bot built with NLP pipelines and Flask backend | NLTK, Flask, Python |
+- 🔭 Working on **Deep Learning, Computer Vision, and Generative AI** projects
+- 🛠️ Tech Stack: **Python**, **OpenCV**, **YOLO**, **TensorFlow**, **LangChain**, **AWS**, **Docker**, **MySQL**, **MongoDB**
+- 🌱 Exploring **LLM Fine-tuning**, **Voice-based AI Agents**, **RAG architectures**
+- 📚 Completed **15+ real-world AI/ML projects**
+- 💬 Ask me about **AI Deployment**, **Vision models**, **RAG Systems**, **Cloud-native AI**
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link) [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-> 📁 *Some case studies and demos coming soon — codebases from corporate projects are abstracted due to IP restrictions.*
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+</div>
 
 ---
 
-## 📫 Let’s Connect
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-sidhik-amuluru-50231b163/)  
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:sidhik98@gmail.com)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Goutham's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</div>
 
 ---
+
+## 📌 Featured Projects
+
+- 🚀 **YOLO + ArUco based Object Dimension Estimation**
+- 📝 **Aadhaar OCR Extraction Flask Application**
+- 🛫 **Flight Crew Disruption Management with LLMs**
+- 🏨 **Policy Extraction and Scoring Engine (Travel, Hotel, Airline)**
+- 🎙️ **Voice-based AI Agent (AWS Bedrock + Streamlit)**
+
+---
+
+## ✨ Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 Always Learning | Building Cool Stuff | Innovating AI Solutions 🔥
+</p>
+
