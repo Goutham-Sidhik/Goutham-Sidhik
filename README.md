@@ -64,9 +64,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">Flight Crew Disruption AI</a></td>
-      <td>Voice-enabled AI system for airline crew disruption management.</td>
-      <td>Python, Gradio, Bedrock, LLMs</td>
+      <td><a href="#">Image-Based Height Detection</a></td>
+      <td>Estimates height from images by detecting scale readings and auto-validates with database records.</td>
+      <td>Python, OpenCV, TensorFlow, MSSQL</td>
     </tr>
     <tr>
       <td><a href="#">Aadhaar OCR Extractor</a></td>
