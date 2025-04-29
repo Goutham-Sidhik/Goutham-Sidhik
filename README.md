@@ -1,83 +1,97 @@
-<!-- GitHub Profile README.md -->
+# Hi there👋, I'm Goutham Sidhik 
 
-<h1 align="center">Hi 👋, I'm Goutham Sidhik</h1>
-
-<h3 align="center">🚀 AI/ML Engineer | Computer Vision Specialist | GenAI Explorer</h3>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px" alt="Welcome Gif" />
-</div>
+**🤖 AI/ML Engineer | 👁️ Computer Vision Specialist | 🧠 GenAI Explorer**
 
 ---
 
-## 🧠 About Me
+## 📌 About Me 
 
-- 🔭 Working on **Deep Learning, Computer Vision, and Generative AI** projects
-- 🛠️ Tech Stack: **Python**, **OpenCV**, **YOLO**, **TensorFlow**, **LangChain**, **AWS**, **Docker**, **MySQL**, **MongoDB**
-- 🌱 Exploring **LLM Fine-tuning**, **Voice-based AI Agents**, **RAG architectures**
-- 📚 Completed **15+ real-world AI/ML projects**
-- 💬 Ask me about **AI Deployment**, **Vision models**, **RAG Systems**, **Cloud-native AI**
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link) [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-
-</div>
+- 🙋 **AI/ML Engineer** specialized in **Computer Vision** and **Generative AI**.
+- 🛠️ Skilled in **Python**, **Machine Learning**, **Deep Learning**, **LangChain**, and **OpenCV**.
+- 🏆 Delivered 15+ real-world AI solutions with impactful results across domains.
+- 🌱 Evolving through continuous learning and building innovative solutions.
+- 📨 Reach me at: [sidhik98@gmail.com](mailto:sidhik98@gmail.com)
 
 ---
 
-## 📈 GitHub Stats
+## 👨‍💻 Tech Stack
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Goutham's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-</div>
+  #### Programming Languages
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  #### Frameworks
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+  
+  #### Databases
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  #### AI/ML & Deep Learning
+  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=keras&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![LLM](https://img.shields.io/badge/LLM-800080?style=for-the-badge&logo=openai&logoColor=white)
+  
+  #### DevOps Tools
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  
+  #### Cloud Services
+  ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
+  ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📚 Key Projects
 
-- 🚀 **YOLO + ArUco based Object Dimension Estimation**
-- 📝 **Aadhaar OCR Extraction Flask Application**
-- 🛫 **Flight Crew Disruption Management with LLMs**
-- 🏨 **Policy Extraction and Scoring Engine (Travel, Hotel, Airline)**
-- 🎙️ **Voice-based AI Agent (AWS Bedrock + Streamlit)**
+<table>
+  <thead align="center">
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#">Flight Crew Disruption AI</a></td>
+      <td>Voice-enabled AI system for airline crew disruption management.</td>
+      <td>Python, Gradio, Bedrock, LLMs</td>
+    </tr>
+    <tr>
+      <td><a href="#">Aadhaar OCR Extractor</a></td>
+      <td>Extracts Aadhaar details from images and PDFs with high accuracy.</td>
+      <td>Flask, Pytesseract, OpenCV</td>
+    </tr>
+    <tr>
+      <td><a href="#">YOLO Size Estimation App</a></td>
+      <td>Estimates real-world dimensions using YOLO + ArUco markers.</td>
+      <td>YOLOv8, OpenCV, Flask</td>
+    </tr>
+    <tr>
+      <td><a href="#">Policy Extraction & Comparison</a></td>
+      <td>Extracts, summarizes, and scores policies using Bedrock LLMs.</td>
+      <td>Bedrock, FAISS, Python</td>
+    </tr>
+    <tr>
+      <td><a href="#">Smart Event Recommender</a></td>
+      <td>Suggests event venues via database search + Google fallback.</td>
+      <td>Python, MongoDB, AWS</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## ✨ Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  🚀 Always Learning | Building Cool Stuff | Innovating AI Solutions 🔥
-</p>
-
+<h3 align="center">✨ Build smart. Grow fast. Stay sharp. ✨</h3>
