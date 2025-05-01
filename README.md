@@ -68,7 +68,7 @@
       <td>Python, OpenCV, PyTesseract, TensorFlow, AWS Rekognition</td>
     </tr>
     <tr>
-      <td><a href="#">AI-Driven Event Images Organizer</a></td>
+      <td><a href="#">AI-Driven Event Image Organizer</a></td>
       <td>Organizes event photos by detecting faces and bib numbers to automate participant tagging and retrieval.</td>
       <td>Python, YOLO, AWS Rekognition, TensorFlow, OpenCV, Flask</td>
     </tr>
