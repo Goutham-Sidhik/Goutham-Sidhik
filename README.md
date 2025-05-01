@@ -53,19 +53,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">Image-Based Height Detection</a></td>
-      <td>Estimates height from images by detecting scale readings and auto-validates with database records.</td>
-      <td>Python, OpenCV, TensorFlow, MySQL</td>
+      <td><a href="#">Height Verification</a></td>
+      <td>Estimates height of person from images by detecting scale readings and auto-validates with database records.</td>
+      <td>Python, OpenCV, TensorFlow, MySQL, Docker</td>
     </tr>
     <tr>
-      <td><a href="#">Facial Verification</a></td>
-      <td>Performs face matching between stored images and captured video frames to automate identity verification.</td>
+      <td><a href="#">Image Content Check</a></td>
+      <td>Automates moderation checks on images.</td>
       <td>Python, AWS Rekognition, OpenCV</td>
     </tr>
     <tr>
       <td><a href="#">Bib Number Detection</a></td>
       <td>Detects and recognizes bib numbers from marathon images for automated image organization.</td>
-      <td>Python, YOLO, TensorFlow (SSD), OpenCV</td>
+      <td>Python, YOLO, TensorFlow (SSD), OpenCV, Flask</td>
     </tr>
     <tr>
       <td><a href="#">OCR-based Text Extraction</a></td>
@@ -75,7 +75,7 @@
     <tr>
       <td><a href="#">Conversational Bot</a></td>
       <td>Enables conversation over documents using LLMs and vector-based retrieval.</td>
-      <td>Python, AWS Bedrock, LangChain</td>
+      <td>Python, AWS Bedrock, LangChain, Streamlit</td>
     </tr>
   </tbody>
 </table>
