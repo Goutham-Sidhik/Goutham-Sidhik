@@ -53,12 +53,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">Height Verification</a></td>
+      <td><a href="#">Scale Height Verification</a></td>
       <td>Estimates height of person from images by detecting scale readings and auto-validates with database records.</td>
       <td>Python, OpenCV, TensorFlow, MySQL, Docker</td>
     </tr>
     <tr>
-      <td><a href="#">Image Content Check</a></td>
+      <td><a href="#">Image Content Moderation</a></td>
       <td>Automates moderation checks on images.</td>
       <td>Python, AWS Rekognition, OpenCV</td>
     </tr>
@@ -73,7 +73,7 @@
       <td>Python, PyTesseract, Regex</td>
     </tr>
     <tr>
-      <td><a href="#">Conversational Bot</a></td>
+      <td><a href="#">Conversational AI Bot</a></td>
       <td>Enables conversation over documents using LLMs and vector-based retrieval.</td>
       <td>Python, AWS Bedrock, LangChain, Streamlit</td>
     </tr>
