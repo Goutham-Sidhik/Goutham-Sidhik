@@ -63,7 +63,7 @@
       <td>Python, OpenCV, YOLO, SAM, Streamlit</td>
     </tr>
     <tr>
-      <td><a href="(https://github.com/Goutham-Sidhik/smart-form-validator.git)">Smart Form Validator</a></td>
+      <td><a href=(https://github.com/Goutham-Sidhik/smart-form-validator.git)>Smart Form Validator</a></td>
       <td>Automates form checks using image quality analysis, gender validation, and OCR-based data extraction.</td>
       <td>Python, OpenCV, PyTesseract, TensorFlow, AWS Rekognition</td>
     </tr>
