@@ -58,24 +58,24 @@
       <td>Python, OpenCV, TensorFlow, MySQL, Docker</td>
     </tr>
     <tr>
-      <td><a href="#">Image Content Moderation</a></td>
-      <td>Automates moderation checks on images.</td>
-      <td>Python, AWS Rekognition, OpenCV</td>
+      <td><a href="#">Visual Measurement Toolkit</a></td>
+      <td>Calculates real-world object dimensions from images or videos using markers and detection models.</td>
+      <td>Python, OpenCV, YOLO, SAM, Streamlit</td>
     </tr>
     <tr>
-      <td><a href="#">Bib Number Detection</a></td>
-      <td>Detects and recognizes bib numbers from marathon images for automated image organization.</td>
-      <td>Python, YOLO, TensorFlow (SSD), OpenCV, Flask</td>
+      <td><a href="#">Smart Form Validator</a></td>
+      <td>Automates form checks using image quality analysis, gender validation, and OCR-based data extraction.</td>
+      <td>Python, OpenCV, PyTesseract, TensorFlow, AWS Rekognition</td>
     </tr>
     <tr>
-      <td><a href="#">OCR-based Text Extraction</a></td>
-      <td>Extracts and parses text from scanned docs using OCR and regex.</td>
-      <td>Python, PyTesseract, Regex</td>
+      <td><a href="#">AI-Driven Event Images Organizer</a></td>
+      <td>Organizes event photos by detecting faces and bib numbers to automate participant tagging and retrieval.</td>
+      <td>Python, YOLO, AWS Rekognition, TensorFlow, OpenCV, Flask</td>
     </tr>
     <tr>
-      <td><a href="#">Conversational AI Bot</a></td>
-      <td>Enables conversation over documents using LLMs and vector-based retrieval.</td>
-      <td>Python, AWS Bedrock, LangChain, Streamlit</td>
+      <td><a href="#">Intelligent Document Assistant (LLM-Powered)</a></td>
+      <td>Enables context-aware Q&A over uploaded documents using LLMs and vector search.</td>
+      <td>Python, AWS Bedrock, LangChain, FAISS, Streamlit</td>
     </tr>
   </tbody>
 </table>
