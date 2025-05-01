@@ -55,12 +55,7 @@
     <tr>
       <td><a href="#">Image-Based Height Detection</a></td>
       <td>Estimates height from images by detecting scale readings and auto-validates with database records.</td>
-      <td>Python, OpenCV, TensorFlow, MSSQL</td>
-    </tr>
-    <tr>
-      <td><a href="#">Gender Classification</a></td>
-      <td>Deep learning model classifies gender from facial images with high accuracy using a private dataset.</td>
-      <td>Python, TensorFlow, CNN</td>
+      <td>Python, OpenCV, TensorFlow, MySQL</td>
     </tr>
     <tr>
       <td><a href="#">Facial Verification</a></td>
@@ -76,6 +71,11 @@
       <td><a href="#">OCR-based Text Extraction</a></td>
       <td>Extracts and parses text from scanned docs using OCR and regex.</td>
       <td>Python, PyTesseract, Regex</td>
+    </tr>
+    <tr>
+      <td><a href="#">Conversational Bot</a></td>
+      <td>Enables conversation over documents using LLMs and vector-based retrieval.</td>
+      <td>Python, AWS Bedrock, LangChain</td>
     </tr>
   </tbody>
 </table>
