@@ -65,7 +65,7 @@
     <tr>
       <td><a href="https://github.com/Goutham-Sidhik/smart-form-validator.git">Smart Form Validator</a></td>
       <td>Automates form checks using image quality analysis, gender validation, and OCR-based data extraction.</td>
-      <td>Python, OpenCV, PyTesseract, TensorFlow, AWS Rekognition</td>
+      <td>Python, OpenCV, PyTesseract, AWS Rekognition, MySQL</td>
     </tr>
     <tr>
       <td><a href="#">AI-Driven Event Image Organizer</a></td>
