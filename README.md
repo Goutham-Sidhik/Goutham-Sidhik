@@ -68,9 +68,9 @@
       <td>Python, OpenCV, PyTesseract, AWS Rekognition, MySQL</td>
     </tr>
     <tr>
-      <td><a href="#">AI-Driven Event Image Organizer</a></td>
+      <td><a href="https://github.com/Goutham-Sidhik/AI-Driven-Event-Image-Organizer.git">AI-Driven Event Image Organizer</a></td>
       <td>Organizes event photos by detecting faces and bib numbers to automate participant tagging and retrieval.</td>
-      <td>Python, YOLO, AWS Rekognition, TensorFlow, OpenCV, Flask</td>
+      <td>Python, YOLO, AWS Rekognition, S3, TensorFlow, OpenCV, Flask</td>
     </tr>
     <tr>
       <td><a href="#">Intelligent Document Assistant (LLM-Powered)</a></td>
