@@ -10,8 +10,7 @@
 - 🛠️ Skilled in **Python**, **Machine Learning**, **Deep Learning**, **LangChain**, and **OpenCV**.
 - 🏆 Delivered 15+ real-world AI solutions with impactful results across domains.
 - 🌱 Evolving through continuous learning and building innovative solutions.
-- 📨 Reach me at: [sidhik98@gmail.com](mailto:sidhik98@gmail.com)
-- 🔗 Connect on LinkedIn: [linkedin.com/in/gouthamsidhik](https://www.linkedin.com/in/goutham-sidhik-amuluru-50231b163/)
+- 📬 Contact: [Gmail](mailto:sidhik98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/goutham-sidhik-amuluru-50231b163/)
 
 
 ---
