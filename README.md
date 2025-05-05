@@ -53,7 +53,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">Scale Height Verification</a></td>
+      <td><a href="https://github.com/Goutham-Sidhik/Scale-Height-Verification.git">Scale Height Verification</a></td>
       <td>Estimates height of person from images by detecting scale readings and auto-validates with database records.</td>
       <td>Python, OpenCV, TensorFlow, MySQL, Docker</td>
     </tr>
