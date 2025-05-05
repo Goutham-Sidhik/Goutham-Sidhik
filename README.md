@@ -58,9 +58,9 @@
       <td>Python, OpenCV, TensorFlow, MySQL, Docker</td>
     </tr>
     <tr>
-      <td><a href="#">Visual Measurement Toolkit</a></td>
+      <td><a href="https://github.com/Goutham-Sidhik/Visual-Measurement-Toolkit.git">Visual Measurement Toolkit</a></td>
       <td>Calculates real-world object dimensions from images or videos using markers and detection models.</td>
-      <td>Python, OpenCV, YOLO, SAM, Streamlit</td>
+      <td>Python, OpenCV, YOLO, Streamlit</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Goutham-Sidhik/smart-form-validator.git">Smart Form Validator</a></td>
