@@ -73,7 +73,7 @@
       <td>Python, YOLO, AWS Rekognition, S3, TensorFlow, OpenCV, Flask</td>
     </tr>
     <tr>
-      <td><a href="#">Intelligent Document Assistant (LLM-Powered)</a></td>
+      <td><a href="https://github.com/Goutham-Sidhik/Intelligent-Document-Assistant.git">Intelligent Document Assistant (LLM-Powered)</a></td>
       <td>Enables context-aware Q&A over uploaded documents using LLMs and vector search.</td>
       <td>Python, AWS Bedrock, LangChain, FAISS, Streamlit</td>
     </tr>
