@@ -1,6 +1,6 @@
 # Hi there👋, I'm Goutham Sidhik 
 
-**🤖 AI/ML Engineer | 👁️ Computer Vision Specialist | 🧠 GenAI Explorer**
+**`🤖 AI/ML Engineer | 👁️ Computer Vision Specialist | 🧠 GenAI Explorer`**
 
 ---
 
